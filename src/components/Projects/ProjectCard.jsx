@@ -7,14 +7,6 @@ function ProjectCard(
     skills,
 sourceUrl}) {
 
-    // let languages = skills.map((skill, i) => {
-    //     return (
-    //       <li key={i} value={skill}>
-    //         {skill}
-    //       </li>
-    //     ).join;
-    // });
-
   return (
     <div className="project-card">
         <div className="image-container">
