@@ -25,7 +25,7 @@ export const projectsData = [
         projectName: 'Hotel Booking App',
         projectDescription: `Hotel Booking App is a Hotel Booking (SPA) where the users can register themselves, login and reserve a set of different Hotels. It is built and connected by using two different repos, including the server side( Our Backend) with Ruby on Rails, and the client side(Our Front-end) with React/Redux.''.`,
         imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture2.JPG',
-        skills: 'Technologies:  Ruby-On-Rails, PostgreSQL, React JS',
+        skills: 'Technologies:  Ruby OnRails, PostgreSQL, React.JS',
         projectUrl: 'https://euphonious-cactus-a77132.netlify.app/',
         sourceUrl: 'https://github.com/Tadessejemal1/math-magicians.git',
     },
@@ -35,7 +35,7 @@ export const projectsData = [
         projectDescription:
             'A web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. Using real live data from the SpaceX API.',
         imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture6.JPG',
-        skills: 'Technologies:  React.Js , Redux , JavaScript',
+        skills: 'Technologies:  React.Js,   Redux,   JavaScript',
         projectUrl: 'https://lokurasrlz.github.io/Space-Travelers/',
         sourceUrl: 'https://github.com/Tadessejemal1/Space-Travelers-Hub.git',
         

@@ -50,14 +50,14 @@
     color: #7d7987;
 }
 .project-live-link{
-    font-weight: 600;
+    font-weight: 500;
     color: #4089ed;
 }
 
 .languages-list {
-    color: #4089ed;
+    color: black;
     margin-left: -8px;
-    
+    font-weight: 700;
 }
 
 .project-stack {
