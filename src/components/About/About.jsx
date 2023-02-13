@@ -19,7 +19,7 @@ function About() {
             </p>
             <a href={Resume} download>
                 {' '}
-                <button className="btn highlighted-btn"><h3>Get Resume</h3></button>
+                <button className="btn highlighted-btn"><p>Get Resume</p></button>
             </a>
         </div>
         <div className='about-main-right'>
