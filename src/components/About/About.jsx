@@ -4,7 +4,6 @@ import Header from "./../Header/Header.jsx"
 import Footer from "./../Footer/Footer.jsx"
 import aboutVector from "./../../assets/about_vector.png";
 import aboutAnime from "./../../assets/about_anime.gif";
-import Resume from '../../assets/Resume.pdf';
 
 function About() {
   return (
@@ -19,10 +18,13 @@ function About() {
             <p className='about-sub-heading-details'>
             Experienced full stack developer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create reliable and user-friendly systems. Ability to learn new things quickly, collaboration, communication, pair programming, and remote work.
             </p>
-            <a href={Resume} download>
-                {' '}
-                <button className="btn highlighted-btn"><p>Get Resume</p></button>
-            </a>
+            <a
+              rel="noopener noreferrer"
+              href="https://docs.google.com/document/d/1K58XXOFPM1CpbkpztFzX6brdLp76gLAyyDr_npjsZMw/edit"
+              target="_blank"
+              className="btn highlighted-btn"
+              ><p>Get My Resume</p></a
+            >
         </div>
         <div className='about-main-right'>
             <img 
