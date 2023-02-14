@@ -60,11 +60,15 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Personal Portfolio] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
+> is 🔥the complete portfolio which lets me showcase my work and provides each and every detail about me as software developer.
+<!-- LIVE DEMO -->
 
-**[your_project__name]** is a...
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://feature-contacts--deft-otter-e3b019.netlify.app/#/)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -104,14 +108,6 @@ After you're finished please remove all the comments and instructions!
 - **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
