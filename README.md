@@ -61,8 +61,6 @@ After you're finished please remove all the comments and instructions!
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Personal Portfolio] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 > is 🔥the complete portfolio which lets me showcase my work and provides each and every detail about me as software developer.
 <!-- LIVE DEMO -->
 
@@ -111,80 +109,30 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+## Getting Started
 
-## 💻 Getting Started <a name="getting-started"></a>
+This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- npm install rails
-```
-
-```sh
- npm install rails
-```
- -->
-
+ - IDE(code editor) like: **Vscode**, **Sublime**, etc.  
+ - [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/) 
 ### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
+  1. Download the **Zip** file or clone the repo with: ```bash git clone [filename](https://github.com/Tadessejemal1/portfolio)
+  2.  ``` To access cloned directory run: ```bash cd portfolio-  mobile-work-and-about ``` 
+  3. Open it with the live server 
 ### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  npm install
-```
---->
-
+  To install linters and other project's dependencies run:
+  ```sh
+   npm install
+  ```
 ### Usage
-
 To run the project, execute the following command:
-
-<!--
-Example command:
 
 ```sh
   npm start
 ```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-  [Click me](https://feature-contacts--deft-otter-e3b019.netlify.app/#/)
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
