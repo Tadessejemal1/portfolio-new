@@ -25,7 +25,7 @@ export const skillList = [
   },
   {
     skillName: 'Ruby on Rails',
-    skillUrl: 'https://assets.stickpng.com/images/62c48bbdd884e8c372162223.png',
+    skillUrl: 'https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png',
   },
   {
     skillName: 'Mysql',
