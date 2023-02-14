@@ -30,8 +30,6 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -72,8 +70,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -95,38 +91,29 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+## Getting Starte
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
  - IDE(code editor) like: **Vscode**, **Sublime**, etc.  
  - [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/) 
+ 
 ### Setup
   1. Download the **Zip** file or clone the repo with: ```bash git clone [filename](https://github.com/Tadessejemal1/portfolio)
   2.  ``` To access cloned directory run: ```bash cd portfolio-  mobile-work-and-about ``` 
   3. Open it with the live server 
+  
 ### Install
-  To install linters and other project's dependencies run:
+  To install project's dependencies run:
   ```sh
    npm install
   ```
+  
 ### Usage
 To run the project, execute the following command:
 
