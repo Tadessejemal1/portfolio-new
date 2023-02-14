@@ -39,7 +39,7 @@ function Contact() {
       <div className='contact-form-container'>
         <form ref={form} className='contact-form' onSubmit={sendEmail} id='contact-form'>
           <input type="name" className='input-box email-input'
-            placeholder='YourName' name='name' required/>
+            placeholder='Your Name' name='name' required/>
           <input type="email" className='input-box email-input'
             placeholder='Your Email Id' name='email' required/>
           <textarea type="text" placeholder='Your Message' name='message'

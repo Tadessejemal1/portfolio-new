@@ -17,7 +17,7 @@ function About() {
         <div className='about-main-left'>
             <h3 className='about-sub-heading'>Web Developer</h3>
             <p className='about-sub-heading-details'>
-              Hello I'm a Web developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don't hesitate to contact me.
+            Experienced full stack developer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create reliable and user-friendly systems. Ability to learn new things quickly, collaboration, communication, pair programming, and remote work.
             </p>
             <a href={Resume} download>
                 {' '}
