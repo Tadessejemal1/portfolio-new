@@ -3,6 +3,8 @@ import "./Projects.css";
 import Header from "./../Header/Header.jsx"
 import {projectsData} from "./../../assets/projectsData";
 import ProjectCard from "./ProjectCard.jsx";
+import Footer from "./../Footer/Footer.jsx";
+
 function Projects() {
   return (
     <div className='section-container'>
@@ -31,6 +33,11 @@ function Projects() {
         })
       }
       </div>
+      <Footer 
+        phrase="Check out "
+        link="my skills!"
+        toAddress="/skills">
+      </Footer>
     </div>
   )
 }

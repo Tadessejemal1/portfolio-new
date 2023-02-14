@@ -4,6 +4,8 @@ import Header from "./../Header/Header.jsx";
 import skillsVector from "./../../assets/skills_vector.png";
 import {skillList} from "./../../assets/skillsData";
 import SkillCard from "./SkillCard.jsx";
+import Footer from "./../Footer/Footer.jsx";
+
 function Skills() {
   return (
     <div className='section-container'>
@@ -17,6 +19,11 @@ function Skills() {
           />)
       }
       </div>
+      <Footer
+        phrase="Get in "
+        link="touch."
+        toAddress="/contact">
+      </Footer>
         <div className='skills-vector-frame'>
           <img src={skillsVector} alt="skill-vector"
           className='skills-vector' loading="lazy"
