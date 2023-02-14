@@ -131,7 +131,11 @@ In order to run this project you need:
 Example command:
 
 ```sh
- gem install rails
+ npm install rails
+```
+
+```sh
+ npm install rails
 ```
  -->
 
@@ -157,7 +161,7 @@ Example command:
 
 ```sh
   cd my-project
-  gem install
+  npm install
 ```
 --->
 
@@ -169,19 +173,7 @@ To run the project, execute the following command:
 Example command:
 
 ```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
+  npm start
 ```
 --->
 
@@ -193,7 +185,7 @@ You can deploy this project using:
 Example:
 
 ```sh
-
+  [Click me](https://feature-contacts--deft-otter-e3b019.netlify.app/#/)
 ```
  -->
 
@@ -201,21 +193,12 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## Author
+## 👤 Tadesse J.
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Tadessejemal1](https://github.com/Tadessejemal1)
+- Twitter: [@twitterhandle](https://twitter.com/tadesse)
+- LinkedIn: [@tadesse-jemal](https://linkedin.com/in/tadesse-jemal)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
