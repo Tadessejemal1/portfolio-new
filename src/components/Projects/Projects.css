@@ -63,6 +63,12 @@
   color: #4089ed;
 }
 
+.project-confidential-note {
+  font-weight: 600;
+  color: #7d7987;
+  font-style: italic;
+}
+
 .languages-list {
   color: black;
   margin-left: -8px;

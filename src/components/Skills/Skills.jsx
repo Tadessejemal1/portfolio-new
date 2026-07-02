@@ -11,7 +11,7 @@ function Skills() {
     <div className='section-container'>
       <Header
         heading="My Skills."
-        subHeading="Passionate about new technologies, I keep exploring stuff. Here's the tech stack I've worked with!"></Header>
+        subHeading="Front-end, back-end, databases, cloud hosting, and AI — aligned with my resume."></Header>
       <div className='skill-card-container'>
       {
         skillList.map(({skillName, skillUrl}, index) =>  <SkillCard key={index} skillName={skillName}
@@ -22,7 +22,8 @@ function Skills() {
       <Footer
         phrase="Get in "
         link="touch."
-        toAddress="/contact">
+        toAddress="/contact"
+      >
       </Footer>
         <div className='skills-vector-frame'>
           <img src={skillsVector} alt="skill-vector"

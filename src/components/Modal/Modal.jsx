@@ -30,6 +30,18 @@ const Modal = ({ closeModal }) => {
                         <li>
                             Mobile Development
                         </li>
+                        <li>
+                            AI Engineering
+                        </li>
+                        <li>
+                            Agentic AI
+                        </li>
+                        <li>
+                            AI Solutions & Automation
+                        </li>
+                        <li>
+                            Backend & API Development
+                        </li>
                     </ul>
                 </div>
                 <div className='lower-section'>

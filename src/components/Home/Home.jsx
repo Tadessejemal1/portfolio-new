@@ -24,7 +24,7 @@ class Home extends Component {
                     Welcome to my portfolio!
                 </h1>
                 <p>
-                    This is Tadesse Jemal, a <u>full stack engineer</u>.
+                    This is Tadesse Jemal, an <u>AI Engineer and Full-Stack Developer</u> specializing in React, Python, Node.js, and AI-powered applications.
                 </p>
             </div>
             <div className="header-btns">

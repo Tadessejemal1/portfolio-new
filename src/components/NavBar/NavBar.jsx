@@ -40,6 +40,10 @@ class NavBar extends React.Component {
                     className={`menu-item ${path === '/projects' ? 'active-item' : ''}`}>
                     Projects
                 </Link>
+                <Link to='/experience' onClick ={()=>this.closeMenu()}
+                    className={`menu-item ${path === '/experience' ? 'active-item' : ''}`}>
+                    Experience
+                </Link>
                 <Link to='/skills' onClick ={()=>this.closeMenu()} 
                     className={`menu-item ${path === '/skills' ? 'active-item' : ''}`}>
                     Skills

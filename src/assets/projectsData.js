@@ -1,86 +1,116 @@
 export const projectsData = [
-
+  {
+    projectName: 'EduSync SMS',
+    projectDescription:
+      'Premium KG-12 school operating system that unifies academics, attendance, finance, library, HR, parent communication, AI-supported learning, and analytics in one workspace. Role-based portals, early-warning insights, AI monthly reports, and leadership dashboards for 9+ staff roles across KG-12 with multi-language support.',
+    imageUrl: '/edusync-sms.png',
+    skills: 'Built: TypeScript, Next.js, PostgreSQL, Node.js, LLM Ollama',
+    projectUrl: 'https://school-management-system-7qgd.onrender.com/',
+    sourceUrl: 'https://github.com/entro12-ui/School_Management_System.git',
+    confidential: false,
+  },
+  {
+    projectName: 'Medicare AI',
+    projectDescription:
+      'Intelligent healthcare platform unifying patient registration, appointments, EHR workflows, billing, and cross-department coordination. AI automates administrative processes and provides real-time staff assistance. Role-based access for clinical and administrative roles across the organization.',
+    imageUrl: '/medicare-ai.png',
+    skills: 'Built: React, FastAPI, Python, PostgreSQL, OpenAI LLM',
+    confidential: true,
+  },
+  {
+    projectName: 'Hotel Booking Hub',
+    projectDescription:
+      'Responsive hotel reservation platform with external API integration for available rooms, secure user authentication, and booking functionality. Full-stack SPA connected via separate repos: React/Redux/Tailwind front-end and Ruby on Rails/PostgreSQL backend.',
+    imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture2.JPG',
+    skills: 'Built: React.js, Redux, Tailwind CSS, Ruby on Rails, PostgreSQL',
+    projectUrl: 'https://inspiring-kashata-9d9dfc.netlify.app/',
+    sourceUrl: 'https://github.com/Tadessejemal1/hotel-booking-frontend.git',
+    confidential: false,
+  },
+  {
+    projectName: 'AI Sentiment Analysis',
+    projectDescription:
+      'AI-powered media monitoring and sentiment analysis platform that ingests and analyzes 100,000+ articles from LexisNexis and other publication data sources. LLM-based analysis pipelines with prompt engineering deliver dynamic, company- and industry-specific insights, while parallel batch-processing accelerates large-scale analysis. React dashboards manage workflows and visualize automated, AI-driven reporting, all deployed on scalable cloud infrastructure.',
+    imageUrl: '/ai-sentiment-analysis.png',
+    skills: 'Built: Python, FastAPI, React.js, PostgreSQL, Supabase, OpenAI API, Gemini AI, Railway',
+    confidential: true,
+  },
+  {
+    projectName: 'Quality Services AI System',
+    projectDescription:
+      'AI-powered quality management and assurance platform that automates inspections, evaluations, and compliance workflows. LLM-driven analysis surfaces quality insights and generates automated reports, while role-based dashboards streamline monitoring, review, and decision-making across teams.',
+    imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture8.JPG',
+    skills: 'Built: Python, FastAPI, React.js, PostgreSQL, OpenAI API, LLMs',
+    confidential: true,
+  },
+  {
+    projectName: 'Space Travelers Hub',
+    projectDescription:
+      'Commercial and scientific space travel platform where users browse and book missions. Responsive front-end with React, Redux, and modern CSS3; Redux state management for real-time updates; scalable architecture with integrated APIs for dynamic content using SpaceX live data.',
+    imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture-rn.JPG',
+    skills: 'Built: React.js, Redux, JavaScript, REST APIs',
+    projectUrl: 'https://dev--frabjous-biscotti-e42308.netlify.app/',
+    sourceUrl: 'https://github.com/Tadessejemal1/Space-Travelers-Hub.git',
+    confidential: false,
+  },
   {
     projectName: 'Budget App',
     projectDescription:
-            'This project was created through the Microverse software development education course to amplify understanding of Ruby and Ruby on Rails by building a mobile web application where users can log in and monitor their expenses. It also provides an option to classify the outgoings into various classes',
+      'Mobile web application where users log in and monitor expenses with classification into categories. Built during Microverse to deepen Ruby and Ruby on Rails skills with authentication and expense tracking.',
     imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture8.JPG',
-    skills: 'Built:  Ruby-on-Rails , PostgresSQL',
+    skills: 'Built: Ruby on Rails, PostgreSQL',
     projectUrl: 'https://budget-app-project.onrender.com/',
     sourceUrl: 'https://github.com/Tadessejemal1/Budget-App.git',
+    confidential: false,
   },
-
-  {
-    projectName: 'Display Movies',
-    projectDescription:
-            'The JavaScript capstone project is about building our own web application based on an external API. we were select an API that provides data about a topic that you like and then build the webapp around it. The webapp have 2 user interfaces A home page showing a list of items that you can like. A popup window with more data about an item that you can use to comment on it or reserve it for a period of time.',
-    imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture5.JPG',
-    skills: 'Built:  HTML, CSS, JavaScript',
-    projectUrl: 'https://kumilachew-g.github.io/JavaScript-Capstone/dist/',
-    sourceUrl: 'https://github.com/Tadessejemal1/JavaScript-Capstone.git',
-
-  },
-
-  {
-    projectName: 'ToDo List App',
-    projectDescription:
-            'This project is a user add the lists of the tasks, and the website has a features of editing , delete and store the data to local storage using webpack to structure To-do-list app. It is a minimal implementation of a To Do list.',
-    imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture-t.JPG',
-    skills: 'Built:  HTML, CSS, JavaScript',
-    projectUrl: 'https://tadessejemal1.github.io/To-Do-list-Web/dist/',
-    sourceUrl: 'https://github.com/Tadessejemal1/To-Do-list-Web.git',
-
-  },
-
   {
     projectName: 'Bookstore CMS',
     projectDescription:
-            'Bookstore is a website to manage collection of books. It is a Single Page App (SPA) that allows users to: Display a list of books., Add a book. , and Remove a selected book.',
+      'Single Page App to manage a book collection: display books, add new books, and remove selected books. Built with React and React Router.',
     imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture-bn.JPG',
-    skills: 'Built:  React.Js,React router,JavaScript',
+    skills: 'Built: React.js, React Router, JavaScript',
     projectUrl: 'https://develop--lucent-pony-e269a9.netlify.app/',
     sourceUrl: 'https://github.com/Tadessejemal1/Bookstore.git',
-
+    confidential: false,
   },
-
-  {
-    projectName: 'Hotel Booking App',
-    projectDescription: 'Hotel Booking App is a Hotel Booking (SPA) where the users can register themselves, login and reserve a set of different Hotels. It is built and connected by using two different repos, including the server side( Our Backend) with Ruby on Rails, and the client side(Our Front-end) with React/Redux.\'\'.',
-    imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture2.JPG',
-    skills: 'Built:  Ruby OnRails, PostgreSQL, React.JS',
-    projectUrl: 'https://inspiring-kashata-9d9dfc.netlify.app/',
-    sourceUrl: 'https://github.com/Tadessejemal1/hotel-booking-frontend.git',
-  },
-
-  
   {
     projectName: 'Math Magicians',
     projectDescription:
-            'Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.',
+      'SPA for mathematics fans with simple calculations and random math-related quotes. Built with React and React Router.',
     imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture7.JPG',
-    skills: 'Built:  React.Js, React-Router-Dom',
+    skills: 'Built: React.js, React Router',
     projectUrl: 'https://euphonious-cactus-a77132.netlify.app/',
     sourceUrl: 'https://github.com/Tadessejemal1/math-magicians.git',
+    confidential: false,
   },
-
   {
-    projectName: 'Space Travel Hub',
+    projectName: 'Display Movies',
     projectDescription:
-            'A web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. Using real live data from the SpaceX API.',
-    imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture-rn.JPG',
-    skills: 'Built:  React.Js,   Redux,   JavaScript',
-    projectUrl: 'https://dev--frabjous-biscotti-e42308.netlify.app/',
-    sourceUrl: 'https://github.com/Tadessejemal1/Space-Travelers-Hub.git',
-
+      'JavaScript capstone web app built around an external API: home page with likable items and a detail popup for comments or reservations.',
+    imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture5.JPG',
+    skills: 'Built: HTML, CSS, JavaScript',
+    projectUrl: 'https://kumilachew-g.github.io/JavaScript-Capstone/dist/',
+    sourceUrl: 'https://github.com/Tadessejemal1/JavaScript-Capstone.git',
+    confidential: false,
   },
-
   {
-    projectName: 'Leader board Web',
+    projectName: 'ToDo List App',
     projectDescription:
-            'In this website you will add scores and also see your scores and I am using a api for fetch the data from api and also add data to the api.',
+      'Task list app with add, edit, delete, and local storage persistence. Structured with Webpack as a minimal to-do implementation.',
+    imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture-t.JPG',
+    skills: 'Built: HTML, CSS, JavaScript, Webpack',
+    projectUrl: 'https://tadessejemal1.github.io/To-Do-list-Web/dist/',
+    sourceUrl: 'https://github.com/Tadessejemal1/To-Do-list-Web.git',
+    confidential: false,
+  },
+  {
+    projectName: 'Leaderboard Web',
+    projectDescription:
+      'Score tracking website using an API to fetch and submit leaderboard data.',
     imageUrl: 'https://tadessejemal1.github.io/portfolio-personal/images/Capture-l.JPG',
-    skills: 'Built:  HTML, CSS, JavaScript',
+    skills: 'Built: HTML, CSS, JavaScript',
     projectUrl: 'https://tadessejemal1.github.io/Leaderboard-web/dist/',
     sourceUrl: 'https://github.com/Tadessejemal1/Leaderboard-web.git',
+    confidential: false,
   },
 ];
